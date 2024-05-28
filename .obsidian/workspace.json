@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d7328e2551876991",
+        "id": "6f21da9c4876d767",
         "type": "tabs",
         "children": [
           {
-            "id": "2604d2e7cd7a5266",
+            "id": "7e5041ded278606b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/README.md",
+                "file": "00 - Maps of Content/Placeholder.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cat  ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/README.md",
+                "file": "00 - Maps of Content/Placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/README.md",
+                "file": "00 - Maps of Content/Placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/README.md"
+                "file": "00 - Maps of Content/Placeholder.md"
               }
             }
           },
@@ -178,8 +177,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2604d2e7cd7a5266",
+  "active": "7e5041ded278606b",
   "lastOpenFiles": [
+    "--- Vault ---/README.md",
+    "README.md",
+    "Viewer.md",
     "06 - Daily/Placeholder.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "01 - Projects/Automatic Cat Feeder/new file.md",
@@ -187,12 +189,9 @@
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "06 - Daily/2024-05-27.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
-    "Viewer.md",
     "06 - Daily/2024-W22.md",
-    "--- Vault ---/README.md",
     "--- Vault ---/Welcome.md",
     "create a link.md",
-    "Home.md",
     "test page.md",
     "00 - Maps of Content/Placeholder.md",
     "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
