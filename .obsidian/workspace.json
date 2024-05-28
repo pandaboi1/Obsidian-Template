@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e03b055fecc1df54",
+        "id": "442eb90d3dc338fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a944298238a116c8",
+            "id": "2e3ed4038af0f46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "65bb5c9c767ae49d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home.md"
+              }
             }
           },
           {
@@ -182,8 +177,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "65bb5c9c767ae49d",
+  "active": "2e3ed4038af0f46a",
   "lastOpenFiles": [
+    "Untitled.md",
     "Home.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "06 - Daily/Placeholder.md",
