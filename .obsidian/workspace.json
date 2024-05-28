@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,10 +171,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-daily-notes-viewer:Open Viewer": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "0365ebbd3d067b31",
+  "active": "1753cac08aa330a4",
   "lastOpenFiles": [
     "Untitled.md",
     "Home.md",
