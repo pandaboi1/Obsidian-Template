@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "ade81ff6dcd5d279",
+    "type": "split",
+    "children": [
+      {
+        "id": "e03b055fecc1df54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a944298238a116c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "105b45b2aaeadf6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c294817a9b3346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70eeaef61669c944",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d217020dac7e056",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e4f03545662ab06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1753cac08aa330a4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.49999618530273
+  },
+  "right": {
+    "id": "555b5698c7672466",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf1a08c5b86eb47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aab3b7232d652eb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a075539d5123dcf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1bce8ef606fbfd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8e6f4c34fee11c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "441175c6e5158c00",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8789175028f0273",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-daily-notes-viewer:Open Viewer": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "a944298238a116c8",
+  "lastOpenFiles": [
+    "01 - Projects/Automatic Cat Feeder/README.md",
+    "06 - Daily/Placeholder.md",
+    "00 - Maps of Content/Placeholder.md",
+    "--- Vault ---/README.md",
+    "Home.md",
+    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "01 - Projects/Automatic Cat Feeder/Untitled.md",
+    "--- Vault ---/Viewer.md",
+    "--- Vault ---/Welcome.md",
+    "01 - Projects/Automatic Cat Feeder",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "00 - Maps of Content",
+    "Vault/new/Untitled.md",
+    "Vault/new",
+    "Vault/00 - Maps of Content 1/Placeholder.md",
+    "99 - Meta/Preloaded Classes",
+    "99 - Meta/00 - Templates",
+    "07 - Archives/Placeholder.md",
+    "05 - Fleeting/Placeholder.md",
+    "04 - Permanent/Placeholder.md",
+    "02 - Areas/Placeholder.md",
+    "03 - Resources/Placeholder.md",
+    "99 - Meta",
+    "07 - Archives",
+    "06 - Daily",
+    "05 - Fleeting",
+    "04 - Permanent"
+  ]
+}
