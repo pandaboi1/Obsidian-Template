@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "test page",
-      "path": "test page.md"
+      "basename": "Welcome",
+      "path": "--- Vault ---/Welcome.md"
+    },
+    {
+      "basename": "Viewer",
+      "path": "Viewer.md"
     },
     {
       "basename": "Home",
@@ -11,6 +15,10 @@
     {
       "basename": "README",
       "path": "01 - Projects/Automatic Cat Feeder/README.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "01 - Projects/Automatic Cat Feeder/Untitled.md"
     },
     {
       "basename": "Placeholder",
@@ -41,16 +49,8 @@
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
     },
     {
-      "basename": "Untitled",
-      "path": "01 - Projects/Automatic Cat Feeder/Untitled.md"
-    },
-    {
       "basename": "Viewer",
       "path": "--- Vault ---/Viewer.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "--- Vault ---/Welcome.md"
     },
     {
       "basename": "(TEMPLATE) Daily (Vanilla)",

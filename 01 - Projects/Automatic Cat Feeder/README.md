@@ -7,3 +7,4 @@ cssclasses:
 ---
 # Git Repository
 This is a note placeholder.
+
