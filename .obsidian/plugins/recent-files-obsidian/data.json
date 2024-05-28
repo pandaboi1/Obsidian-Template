@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "--- Vault ---/README.md"
+    },
+    {
       "basename": "Welcome",
       "path": "--- Vault ---/Welcome.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "Placeholder",
       "path": "00 - Maps of Content/Placeholder.md"
-    },
-    {
-      "basename": "README",
-      "path": "--- Vault ---/README.md"
     },
     {
       "basename": "202401211512 Notebook CSS Classes",

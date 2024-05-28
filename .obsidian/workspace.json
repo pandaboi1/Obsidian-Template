@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--- Vault ---/Welcome.md",
+                "file": "--- Vault ---/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "--- Vault ---/Welcome.md",
+                "file": "--- Vault ---/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--- Vault ---/Welcome.md",
+                "file": "--- Vault ---/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--- Vault ---/Welcome.md"
+                "file": "--- Vault ---/README.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "0365ebbd3d067b31",
   "lastOpenFiles": [
+    "--- Vault ---/Welcome.md",
+    "create a link.md",
     "Viewer.md",
     "Home.md",
     "test page.md",
@@ -192,7 +194,6 @@
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "--- Vault ---/Viewer.md",
-    "--- Vault ---/Welcome.md",
     "01 - Projects/Automatic Cat Feeder",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "00 - Maps of Content",
