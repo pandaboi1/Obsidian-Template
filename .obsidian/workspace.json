@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "test page.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "test page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "test page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "test page.md"
               }
             }
           },
@@ -178,10 +177,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1753cac08aa330a4",
+  "active": "0365ebbd3d067b31",
   "lastOpenFiles": [
-    "Untitled.md",
     "Home.md",
+    "test page.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "06 - Daily/Placeholder.md",
     "00 - Maps of Content/Placeholder.md",
