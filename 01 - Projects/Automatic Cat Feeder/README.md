@@ -1,6 +1,8 @@
 ---
 date: 2024-05-19T05:30:00
-tags: 
+tags:
+  - cat
+  - arduino
 cssclasses:
   - pen-black
   - page-manila
