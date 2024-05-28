@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cat  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,12 +180,12 @@
   },
   "active": "2604d2e7cd7a5266",
   "lastOpenFiles": [
-    "01 - Projects/Automatic Cat Feeder/new file.md",
+    "06 - Daily/Placeholder.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
+    "01 - Projects/Automatic Cat Feeder/new file.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "06 - Daily/2024-05-27.md",
-    "06 - Daily/Placeholder.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
     "Viewer.md",
     "06 - Daily/2024-W22.md",

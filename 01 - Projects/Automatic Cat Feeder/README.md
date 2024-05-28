@@ -3,7 +3,8 @@ date: 2024-05-19T05:30:00
 tags:
   - cat
   - arduino
-cssclasses: []
+cssclasses:
+  - page-manila
 ---
 # Git Repository
 This is a note placeholder.

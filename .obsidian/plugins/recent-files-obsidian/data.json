@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "README",
       "path": "01 - Projects/Automatic Cat Feeder/README.md"
+    },
+    {
+      "basename": "Placeholder",
+      "path": "06 - Daily/Placeholder.md"
     },
     {
       "basename": "new file",
@@ -19,10 +27,6 @@
     {
       "basename": "2024-05-27",
       "path": "06 - Daily/2024-05-27.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "06 - Daily/Placeholder.md"
     },
     {
       "basename": "Untitled",
@@ -43,10 +47,6 @@
     {
       "basename": "Welcome",
       "path": "--- Vault ---/Welcome.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Placeholder",
