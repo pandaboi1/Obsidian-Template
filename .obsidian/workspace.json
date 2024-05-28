@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/README.md",
+                "file": "06 - Daily/2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cat ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/README.md",
+                "file": "06 - Daily/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/README.md",
+                "file": "06 - Daily/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/README.md"
+                "file": "06 - Daily/2024-05-27.md"
               }
             }
           },
@@ -178,14 +177,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2604d2e7cd7a5266",
+  "active": "70eeaef61669c944",
   "lastOpenFiles": [
     "06 - Daily/Placeholder.md",
+    "06 - Daily/2024-05-27.md",
+    "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
+    "Viewer.md",
+    "06 - Daily/2024-W22.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "--- Vault ---/README.md",
     "--- Vault ---/Welcome.md",
     "create a link.md",
-    "Viewer.md",
     "Home.md",
     "test page.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.md",

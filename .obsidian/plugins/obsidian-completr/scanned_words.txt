@@ -41,6 +41,8 @@ other
 often
 order
 only
+obsidian
+open
 scrubbed
 serves
 several
@@ -103,6 +105,7 @@ here
 have
 NOTICE
 NOTE
+Notes
 likely
 listed
 liking
@@ -124,8 +127,10 @@ green
 gray
 grid
 Please
+Projects
 experience
 embed
+edges
 DAILY
 Do
 DD
@@ -141,10 +146,15 @@ now
 new
 note
 not
+nodes
 HH
 Customize
 CSS
+Cat
 When
 keeping
 Git
 Repository
+FAutomatic
+Feeder
+FREADME
