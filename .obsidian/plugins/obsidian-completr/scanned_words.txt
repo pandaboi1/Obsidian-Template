@@ -33,6 +33,7 @@ cssclasses
 color
 classes
 center
+cat
 of
 or
 own
@@ -81,6 +82,7 @@ and
 above
 an
 autocomplete
+arduino
 vault
 video
 repository
