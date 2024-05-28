@@ -170,11 +170,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-daily-notes-viewer:Open Viewer": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-importer:Open Importer": false,
-      "homepage:Open homepage": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "0365ebbd3d067b31",
