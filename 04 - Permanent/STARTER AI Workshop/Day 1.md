@@ -165,3 +165,6 @@ The opioid crisis, significantly intensified by the widespread abuse of syntheti
 This project aims to enhance the efficiency of machine learning algorithms, with a particular focus on reinforcement learning (RL) models. Our objective is to reduce the complexity of environmental observations in order to increase the overall efficiency and effectiveness of RL agents. To achieve this, we will integrate an autoencoder, a neural network designed to compress data while preserving its key features. Our research will employ several benchmark models from MuJoCo, allowing us to compare the model’s performance when trained with encoded versus raw observational data. Through this investigation, we anticipate uncovering insights that could lead to more streamlined training, and create avenues to train RL agents on more complex tasks.
 
 
+## Daniel Masamba, Tyler Morgan, Dr. Erik Enriquez, and Dr. Dong-Chul Kim
+### Control Strategies for Cooperative Multi-Robot Tasks Using Multi-Agent Reinforcement Learning
+####
