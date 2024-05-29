@@ -11,8 +11,12 @@
             "id": "fa07b06aef7026d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -78,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
+              }
             }
           },
           {
@@ -147,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
+              }
             }
           }
         ]
@@ -189,12 +198,13 @@
   },
   "active": "fa07b06aef7026d4",
   "lastOpenFiles": [
+    "06 - Daily/20240529.md",
     "06 - Daily/20240528.md",
-    "01 - Projects/Automatic Cat Feeder/README.md",
     "06 - Daily/20240527.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "01 - Projects/Automatic Cat Feeder/README.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
     "00 - Maps of Content/Map.md",
     "README.md",

@@ -10,16 +10,12 @@ cssclasses:
 ## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYYMMDD") %>
 ***
 ### Journal
-#### Before
+#### Description
 
 
-#### During
+#### Plans
 
 
-#### After
-
-
-...
 ***
 ### Tasks
 - [ ] Task 1
