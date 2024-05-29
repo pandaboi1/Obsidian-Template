@@ -1,3 +1,16 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1717000593763,
+      "path": "04 - Permanent/STARTER AI Workshop",
+      "title": "AI Workshop"
+    },
+    {
+      "type": "file",
+      "ctime": 1717000621998,
+      "path": "README.md",
+      "title": "README"
+    }
+  ]
 }

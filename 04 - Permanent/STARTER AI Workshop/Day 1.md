@@ -1,6 +1,5 @@
 ---
 date: 2024-05-29T09:23:00
-cssclasses: []
 tags:
   - tech
   - AI
