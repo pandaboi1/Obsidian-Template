@@ -108,6 +108,8 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 **FOLD** - learn default rules that capture patterns in data
 **Default Logic** - can express 
 
+## Lunch from 12pm - 1:30pm
+
 ---
 # Workshop pt2 @1:30pm
 ## Dr. Kim - U.T.R.G.V. Grad. Professor
@@ -150,5 +152,6 @@ TensorFlow is widely used, but PyTorch is becoming the new standard
 ##### 5. Training, Evaluation, and Analysis
 ###### Training and Evaluation
 
-#### Temp
+#### Reinforcement Learning 
+##### Algorithms
 
