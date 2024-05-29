@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 - Projects/Automatic Cat Feeder/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 - Projects/Automatic Cat Feeder/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 - Projects/Automatic Cat Feeder/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 - Projects/Automatic Cat Feeder/README.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "01 - Projects/Automatic Cat Feeder/README.md"
               }
             }
           }
@@ -197,16 +197,17 @@
       "obsidian-importer:Open Importer": true
     }
   },
-  "active": "510916d7257f5672",
+  "active": "7632fba9f4677b7d",
   "lastOpenFiles": [
-    "---.md",
+    "01 - Projects/README.md",
     "README.md",
     "--- Vault ---/README.md",
+    "---.md",
     "--- Vault ---/Viewer.md",
     "--- Vault ---/Welcome.md",
     "Viewer.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
-    "00 - Maps of Content/README - Map.md",
+    "00 - Maps of Content/README.md",
     "READMEc- Map.md",
     "[.md",
     "[[.md",
@@ -226,7 +227,6 @@
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "create a link.md",
-    "02 - Areas of Interest/Areas.md",
     "Untitled.canvas"
   ]
 }
