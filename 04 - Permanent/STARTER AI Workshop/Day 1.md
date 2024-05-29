@@ -101,4 +101,4 @@ MedCognetics provides an advanced AI software platform that integrates into radi
 - f
 
 #### How do Humans Interpret Information?
-Sensory context, inferencing, and prior knowledge of the given information to make a con
+Sensory context, inferencing, and prior knowledge of the given information to make a conclusion to what the given information.
