@@ -44,6 +44,10 @@ img {
   font-size: 18px;
 }
 
+h6{
+  text-align: center;
+}
+
 .center-images img {
   display: block !important;
   margin-left: auto !important;
