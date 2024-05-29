@@ -51,7 +51,10 @@ Given background knowledge, positive and negative examples of a concept (trainin
 ##### Neural Networks
 - Information is processed in **neurons**
 - Signals are passed between neurons via connection links
-- Each connection link has 
+- Each connection link has an associated weight, which multiplies the signal being transferred.
+- The weight decided the output of the neural network 
+- Each neuron applies an activation function to its net input  (sum of individual inputs) to get its output
+
 
 #### Machine Reasoning
 Given pieces of information (axioms) deduce new knowledge
