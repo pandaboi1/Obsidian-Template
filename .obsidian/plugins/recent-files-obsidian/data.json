@@ -5,8 +5,20 @@
       "path": "04 - Permanent/STARTER AI Workshop/Day 1.md"
     },
     {
+      "basename": "README",
+      "path": "04 - Permanent/README.md"
+    },
+    {
       "basename": "20240529",
       "path": "06 - Daily/20240529.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "README",
+      "path": "00 - Maps of Content/README.md"
     },
     {
       "basename": "20240528",
@@ -33,14 +45,6 @@
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
     },
     {
-      "basename": "Map",
-      "path": "00 - Maps of Content/Map.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Viewer",
       "path": "Viewer.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "Welcome",
       "path": "--- Vault ---/Welcome.md"
-    },
-    {
-      "basename": "Placeholder",
-      "path": "04 - Permanent/Placeholder.md"
     }
   ],
   "omittedPaths": [],

@@ -15,13 +15,13 @@ This is my *Notes* for pretty much anything I can think of.
 
 ## Table of Contents
 
-- [Maps of Content](Map.md - Maps of Content/map>)
+- [Maps of Content](<00 - Maps of Content/README.md>)
 - [Projects](<>)
 	- []()(< relitive path >)
 - [Areas of Interest](<Areas of Interest/areas>)
 - 
 
-[Mind Map🗺️](<maps of content/map>)
+[Mind Map🗺️](00%20-%20Maps%20of%20Content/README.md of content/map>)
 
 ---
 

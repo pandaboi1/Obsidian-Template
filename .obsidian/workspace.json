@@ -13,27 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20240529.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f84721fa65ed442",
+            "id": "d4b09803bcfda3fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "06 - Daily/20240529.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,9 +209,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f84721fa65ed442",
+  "active": "fa07b06aef7026d4",
   "lastOpenFiles": [
+    "04 - Permanent/README.md",
     "06 - Daily/20240529.md",
+    "README.md",
+    "00 - Maps of Content/README.md",
+    "Map.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "04 - Permanent/STARTER AI Workshop",
     "06 - Daily/20240528.md",
@@ -223,8 +225,6 @@
     "06 - Daily/20240527.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "00 - Maps of Content/Map.md",
-    "README.md",
     "Viewer.md",
     "create a link.md",
     "02 - Areas of Interest/Areas.md",
@@ -233,7 +233,6 @@
     "--- Vault ---/README.md",
     "--- Vault ---/Viewer.md",
     "--- Vault ---/Welcome.md",
-    "04 - Permanent/Placeholder.md",
     "00 - Maps of Content.md",
     "00.md",
     "Untitled.canvas",

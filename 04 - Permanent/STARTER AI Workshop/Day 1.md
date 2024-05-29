@@ -15,6 +15,3 @@ Additional Support - NIH, NVIDIA, DLI, Physics and Astronomy
 S.T.A.R.T.E.R
 South Texas AI Training and Education Resources (starter.utrgv.edu)
 
-
-`print("hello")` 
-
