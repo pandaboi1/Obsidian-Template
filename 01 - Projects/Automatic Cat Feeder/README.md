@@ -4,7 +4,8 @@ tags:
   - cat
   - arduino
 cssclasses:
-  - page-manila
+  - page-dark
+  - pen-light-blue
 ---
 # Git Repository
 This is a note placeholder.

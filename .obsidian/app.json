@@ -8,7 +8,7 @@
     "99 - Meta/"
   ],
   "showFrontmatter": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "source",
   "autoPairBrackets": false,
   "readableLineLength": true,
   "spellcheck": true

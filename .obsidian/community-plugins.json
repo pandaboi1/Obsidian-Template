@@ -6,12 +6,14 @@
   "obsidian-completr",
   "obsidian-icon-folder",
   "url-into-selection",
-  "obsidian-excalidraw-plugin",
   "tag-wrangler",
   "recent-files-obsidian",
   "obsidian-text-format",
   "templater-obsidian",
-  "calendar",
   "homepage",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-style-settings",
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]

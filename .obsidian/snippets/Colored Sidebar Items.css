@@ -39,7 +39,7 @@ customization. Just swap out the color variable names in the prefix groups.
 
   --nav-item-weight-hover: bold;
 }
-
+  */
 /* Light Theme Specific Properties */
 .theme-light {
   --contrast-color: var(--shadow);
