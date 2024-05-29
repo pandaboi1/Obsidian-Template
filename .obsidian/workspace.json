@@ -107,6 +107,7 @@
       {
         "id": "7e28113005a12b8d",
         "type": "tabs",
+        "dimension": 58.06451612903226,
         "children": [
           {
             "id": "a031b8c146eafa66",
@@ -148,6 +149,22 @@
                 "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5e22029123cecce5",
+        "type": "tabs",
+        "dimension": 41.935483870967744,
+        "children": [
+          {
+            "id": "978434ac8ac23484",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           },
           {
             "id": "1d2b5a066ba114b0",
@@ -157,21 +174,6 @@
               "state": {
                 "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "5e22029123cecce5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "978434ac8ac23484",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -199,8 +201,9 @@
   },
   "active": "86e6e84c5137a7c0",
   "lastOpenFiles": [
-    "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
+    "202405291503.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
+    "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
     "starter.utrgv.edu.md",
     "Pasted image 20240529143753.png",
     "Pasted image 20240529143532.png",
