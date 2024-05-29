@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8be815e9509845aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md"
               }
             }
           },
@@ -168,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md"
               }
             }
           }
@@ -203,15 +213,17 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": true
+      "obsidian-importer:Open Importer": true,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "518e454c8de7087e",
+  "active": "8be815e9509845aa",
   "lastOpenFiles": [
+    "04 - Permanent/STARTER AI Workshop/Day 1.md",
+    "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
     "06 - Daily/20240528.md",
     "06 - Daily/20240529.md",
     "Excalidraw/Drawing 2024-05-29 12.40.35.excalidraw.md",
@@ -219,7 +231,6 @@
     "02 - Areas of Interest/README.md",
     "README.md",
     "Excalidraw",
-    "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "04 - Permanent/README.md",
     "07 - Archives/README.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
@@ -239,7 +250,6 @@
     "[[.md",
     "04 - Permanent/STARTER AI Workshop/Day 2.md",
     "MedCognetics.md",
-    "04 - Permanent/STARTER AI Workshop/Day 3.md",
     "04 - Permanent/STARTER AI Workshop",
     "Untitled.canvas"
   ]

@@ -11,9 +11,9 @@
   "obsidian-text-format",
   "templater-obsidian",
   "homepage",
-  "obsidian-advanced-slides",
   "obsidian-style-settings",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-advanced-slides"
 ]
