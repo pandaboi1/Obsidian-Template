@@ -43,6 +43,7 @@ South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utr
 #### Artificial Intelligence (A.I.)
 Made up from **two** parts **Machine Learning** and **Machine Reasoning**.  Understanding why both are important you can build a parameters to prevent disasters in any groups. 
 
-Humans can understand 
+Humans can understand reason and learn, and they recommend to read [“Thinking, Fast and Slow” by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) gain insight on *why* we think like this. 
 
+Machine Learninf 
 
