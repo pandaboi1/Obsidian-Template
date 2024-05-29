@@ -55,6 +55,11 @@ Given background knowledge, positive and negative examples of a concept (trainin
 - The weight decided the output of the neural network 
 - Each neuron applies an activation function to its net input  (sum of individual inputs) to get its output
 
+##### Training (Backpropagation)
+- The process of finding appropriate weights it called *training*
+- 
 
+##### Applications of Neural Networks
+- Are 
 #### Machine Reasoning
 Given pieces of information (axioms) deduce new knowledge
