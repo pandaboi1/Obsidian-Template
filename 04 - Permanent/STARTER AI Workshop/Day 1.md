@@ -113,8 +113,7 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 ---
 # Workshop pt2 @1:30pm
 ## Dr. Kim - U.T.R.G.V. Grad. Professor
-### Intro to AI & 
-### Interdisciplinary Research
+### Intro to AI & Interdisciplinary Research
 
 #### Perception 
 How to distinguish differences in images and identify conclusions. 
@@ -155,6 +154,14 @@ TensorFlow is widely used, but PyTorch is becoming the new standard
 #### Reinforcement Learning 
 ##### Algorithms
 
-## Amber Garcia and Dr. Julie P. Vanegas
-## - U.T.R.G.V. Research Group
+## Amber Garcia and Dr. Julie P. Vanegas - U.T.R.G.V. Research Group
 ### AI-Driven Design and Synthesis of Nanomaterials for the detection of fentanyl and derivatives
+#### Abstract
+The opioid crisis, significantly intensified by the widespread abuse of synthetic opioids like fentanyl, represents a formidable public health challenge. Conventional opioid detection methodologies lack the sensitivity and specificity required to effectively counter the rapid emergence and proliferation of these potent synthetic substances. This project proposes the novel development of aptamer-based nanosensors, employing cutting-edge advancements in nanotechnology, biochemistry, and artificial intelligence (AI) to overcome this inadequacy.
+
+## Hector Lugo, Arturo Meza-Canales, Osvaldo Garza, Dr. Erik Enriquez, and Dr. Dong-Chul Kim
+### Autoencoders in Reinforcement Learning
+#### Abstract
+This project aims to enhance the efficiency of machine learning algorithms, with a particular focus on reinforcement learning (RL) models. Our objective is to reduce the complexity of environmental observations in order to increase the overall efficiency and effectiveness of RL agents. To achieve this, we will integrate an autoencoder, a neural network designed to compress data while preserving its key features. Our research will employ several benchmark models from MuJoCo, allowing us to compare the model’s performance when trained with encoded versus raw observational data. Through this investigation, we anticipate uncovering insights that could lead to more streamlined training, and create avenues to train RL agents on more complex tasks.
+
+
