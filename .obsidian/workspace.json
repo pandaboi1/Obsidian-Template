@@ -35,6 +35,28 @@
             "id": "8be815e9509845aa",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41895f95fcaa3a7a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1e0ebe3ab4937450",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md"
@@ -42,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,10 +242,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8be815e9509845aa",
+  "active": "1e0ebe3ab4937450",
   "lastOpenFiles": [
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
+    "Pasted image 20240529143532.png",
     "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
+    "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.png",
     "06 - Daily/20240528.md",
     "06 - Daily/20240529.md",
     "Excalidraw/Drawing 2024-05-29 12.40.35.excalidraw.md",
@@ -249,7 +273,6 @@
     "[.md",
     "[[.md",
     "04 - Permanent/STARTER AI Workshop/Day 2.md",
-    "MedCognetics.md",
     "04 - Permanent/STARTER AI Workshop",
     "Untitled.canvas"
   ]
