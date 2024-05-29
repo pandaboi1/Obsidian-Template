@@ -5,8 +5,20 @@
       "path": "00 - Maps of Content/README.md"
     },
     {
+      "basename": "Day 1",
+      "path": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+    },
+    {
+      "basename": "README",
+      "path": "04 - Permanent/README.md"
+    },
+    {
       "basename": "README",
       "path": "03 - Resources/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "02 - Areas of Interest/README.md"
     }
   ],
   "omittedPaths": [],
