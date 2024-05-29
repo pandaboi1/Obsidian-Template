@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "README - Vault",
+      "path": "--- Vault ---/README - Vault.md"
+    },
+    {
+      "basename": "Viewer",
+      "path": "--- Vault ---/Viewer.md"
+    },
+    {
+      "basename": "Welcome",
+      "path": "--- Vault ---/Welcome.md"
+    },
+    {
+      "basename": "README - Main",
+      "path": "README - Main.md"
+    },
+    {
       "basename": "Day 1",
       "path": "04 - Permanent/STARTER AI Workshop/Day 1.md"
     },
@@ -9,16 +25,8 @@
       "path": "00 - Maps of Content/README - Map.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Day 2",
       "path": "04 - Permanent/STARTER AI Workshop/Day 2.md"
-    },
-    {
-      "basename": "Viewer",
-      "path": "Viewer.md"
     },
     {
       "basename": "Day 3",
@@ -59,18 +67,6 @@
     {
       "basename": "Areas",
       "path": "02 - Areas of Interest/Areas.md"
-    },
-    {
-      "basename": "README",
-      "path": "--- Vault ---/README.md"
-    },
-    {
-      "basename": "Viewer",
-      "path": "--- Vault ---/Viewer.md"
-    },
-    {
-      "basename": "Welcome",
-      "path": "--- Vault ---/Welcome.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "--- Vault ---/README - Vault.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "--- Vault ---/README - Vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "--- Vault ---/README - Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+                "file": "--- Vault ---/README - Vault.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+                "file": "--- Vault ---/README - Vault.md"
               }
             }
           }
@@ -197,17 +197,19 @@
       "obsidian-importer:Open Importer": true
     }
   },
-  "active": "510916d7257f5672",
+  "active": "7632fba9f4677b7d",
   "lastOpenFiles": [
-    "00 - Maps of Content/README - Map.md",
-    "README.md",
-    "READMEc- Map.md",
+    "--- Vault ---/Viewer.md",
+    "--- Vault ---/Welcome.md",
+    "Viewer.md",
+    "README - Main.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
+    "00 - Maps of Content/README - Map.md",
+    "READMEc- Map.md",
     "[.md",
     "[[.md",
     "04 - Permanent/STARTER AI Workshop/Day 2.md",
     "MedCognetics.md",
-    "Viewer.md",
     "04 - Permanent/STARTER AI Workshop/Day 3.md",
     "06 - Daily/20240529.md",
     "06 - Daily/20240528.md",
@@ -225,8 +227,6 @@
     "02 - Areas of Interest/Areas.md",
     "01 - Projects/Automatic Cat Feeder/new file.md",
     "202405282038.md",
-    "--- Vault ---/README.md",
-    "--- Vault ---/Viewer.md",
     "Untitled.canvas"
   ]
 }

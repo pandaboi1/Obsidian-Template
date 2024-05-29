@@ -1,28 +1,34 @@
 {
   "items": [
     {
-      "type": "folder",
-      "ctime": 1717000593763,
-      "path": "04 - Permanent/STARTER AI Workshop",
-      "title": "AI Workshop"
-    },
-    {
-      "type": "file",
-      "ctime": 1717000712636,
-      "path": "04 - Permanent/STARTER AI Workshop/Day 1.md"
-    },
-    {
       "type": "group",
       "ctime": 1717000745278,
       "items": [
         {
           "type": "file",
-          "ctime": 1717000621998,
-          "path": "README.md",
-          "title": "README"
+          "ctime": 1717000912186,
+          "path": "README - Main.md",
+          "title": "main"
+        },
+        {
+          "type": "file",
+          "ctime": 1717000973690,
+          "path": "--- Vault ---/README - Vault.md"
         }
       ],
-      "title": "README"
+      "title": "READMEs"
+    },
+    {
+      "type": "group",
+      "ctime": 1717000857040,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1717000824048,
+          "path": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+        }
+      ],
+      "title": "AI Workshop"
     }
   ]
 }
