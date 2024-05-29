@@ -76,12 +76,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.49999618530273
+    "width": 218.49999618530273
   },
   "right": {
     "id": "b6a1b6e845f3a992",
@@ -110,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5e22029123cecce5",
@@ -164,12 +164,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
