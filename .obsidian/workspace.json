@@ -43,6 +43,14 @@
             }
           },
           {
+            "id": "8db1c4cf73e6f883",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "43acaa1c454f2936",
             "type": "leaf",
             "state": {
@@ -67,16 +75,63 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.49999618530273
+  },
+  "right": {
+    "id": "b6a1b6e845f3a992",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e28113005a12b8d",
+        "type": "tabs",
+        "dimension": 58.06451612903226,
+        "children": [
           {
-            "id": "7da54ae5a0ae5574",
+            "id": "a03b88f10e7c5e2f",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2a6aa82ac7739c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e22029123cecce5",
+        "type": "tabs",
+        "dimension": 41.935483870967744,
+        "children": [
+          {
+            "id": "978434ac8ac23484",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d2b5a066ba114b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           },
@@ -110,74 +165,6 @@
             }
           }
         ],
-        "currentTab": 5
-      }
-    ],
-    "direction": "horizontal",
-    "width": 222.49999618530273
-  },
-  "right": {
-    "id": "b6a1b6e845f3a992",
-    "type": "split",
-    "children": [
-      {
-        "id": "7e28113005a12b8d",
-        "type": "tabs",
-        "dimension": 58.06451612903226,
-        "children": [
-          {
-            "id": "8db1c4cf73e6f883",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "a03b88f10e7c5e2f",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2a6aa82ac7739c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5e22029123cecce5",
-        "type": "tabs",
-        "dimension": 41.935483870967744,
-        "children": [
-          {
-            "id": "978434ac8ac23484",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "1d2b5a066ba114b0",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
-              }
-            }
-          }
-        ],
         "currentTab": 1
       }
     ],
@@ -203,8 +190,8 @@
   },
   "active": "86e6e84c5137a7c0",
   "lastOpenFiles": [
-    "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
+    "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
     "06 - Daily/20240529.md",
     "README.md",
     "06 - Daily/20240528.md",
