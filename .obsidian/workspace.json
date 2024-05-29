@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--- Vault ---/README - Vault.md",
+                "file": "README - Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "--- Vault ---/README - Vault.md",
+                "file": "README - Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "--- Vault ---/README - Vault.md",
+                "file": "README - Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--- Vault ---/README - Vault.md"
+                "file": "README - Main.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "--- Vault ---/README - Vault.md"
+                "file": "README - Main.md"
               }
             }
           }
@@ -199,10 +199,11 @@
   },
   "active": "7632fba9f4677b7d",
   "lastOpenFiles": [
+    "--- Vault ---/README - Vault.md",
+    "README - Main.md",
     "--- Vault ---/Viewer.md",
     "--- Vault ---/Welcome.md",
     "Viewer.md",
-    "README - Main.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "00 - Maps of Content/README - Map.md",
     "READMEc- Map.md",
@@ -226,7 +227,6 @@
     "create a link.md",
     "02 - Areas of Interest/Areas.md",
     "01 - Projects/Automatic Cat Feeder/new file.md",
-    "202405282038.md",
     "Untitled.canvas"
   ]
 }
