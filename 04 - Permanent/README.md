@@ -1,1 +1,5 @@
-This is a note placeholder.
+---
+cssclasses:
+  - center-titles
+---
+# Notes for Learning 
