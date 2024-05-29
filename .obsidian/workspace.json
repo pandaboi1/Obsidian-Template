@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "00 - Maps of Content/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "00 - Maps of Content/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "00 - Maps of Content/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+                "file": "00 - Maps of Content/README.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+                "file": "00 - Maps of Content/README.md"
               }
             }
           }
@@ -199,23 +199,25 @@
   },
   "active": "7632fba9f4677b7d",
   "lastOpenFiles": [
+    "07 - Archives/README.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "06 - Daily/20240528.md",
+    "06 - Daily/20240529.md",
+    "README.md",
+    "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "02 - Areas of Interest/README.md",
     "03 - Resources/README.md",
     "04 - Permanent/README.md",
-    "07 - Archives/README.md",
-    "06 - Daily/20240529.md",
     "06 - Daily/README.md",
     "05 - Fleeting/README.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
     "01 - Projects/README.md",
-    "README.md",
     "--- Vault ---/README.md",
     "---.md",
     "--- Vault ---/Viewer.md",
     "--- Vault ---/Welcome.md",
     "Viewer.md",
-    "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "00 - Maps of Content/README.md",
     "READMEc- Map.md",
     "[.md",
@@ -223,9 +225,7 @@
     "04 - Permanent/STARTER AI Workshop/Day 2.md",
     "MedCognetics.md",
     "04 - Permanent/STARTER AI Workshop/Day 3.md",
-    "06 - Daily/20240528.md",
     "starter.utrgv.edu.md",
-    "Map.md",
     "04 - Permanent/STARTER AI Workshop",
     "Untitled.canvas"
   ]
