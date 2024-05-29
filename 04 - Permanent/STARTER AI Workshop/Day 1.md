@@ -138,5 +138,16 @@ Given **training data** is roughly 80% overall data and **testing data** is the 
 - Crucial to
 
 ##### 3. Data Preparation and Methods
-#####
+###### Data Structure
+Data stored in a database, Excel spreadsheet, etc. , which 
+
+###### Time Series Date
+
+##### 4. Model Implementation
+Using TensorFlow or **PyTorch**
+
+TensorFlow is widely used 
+##### 5. Training, Evaluation, and Analysis
+###### Training and Evaluation
+rdfgfg
 
