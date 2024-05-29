@@ -16,7 +16,7 @@ This is my *Notes* for pretty much anything I can think of.
 
 ## Table of Contents
 
-- [Maps of Content](<00 - Maps of Content/README.md>)
+- [Maps of Content](<00 - Maps of Content/README - Map.md>)
 - [Projects](<>)
 	- []()(< relitive path >)
 - [Areas of Interest](<Areas of Interest/areas>)
