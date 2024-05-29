@@ -113,4 +113,6 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 ## Dr. Kim - U.T.R.G.V. Grad. Professor
 ### Intro to AI 
 ### & Interdisciplinary Research
-#### 
+
+#### Perception 
+How to distinguish differences in images and identify conclusions. 
