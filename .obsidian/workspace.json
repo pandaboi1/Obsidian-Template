@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6f21da9c4876d767",
+        "id": "ee82b70271b74a78",
         "type": "tabs",
         "children": [
           {
-            "id": "7e5041ded278606b",
+            "id": "cdaddfd7197555ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "---Vault---/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "---Vault---/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "---Vault---/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "---Vault---/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,15 +169,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7e5041ded278606b",
+  "active": "cdaddfd7197555ea",
   "lastOpenFiles": [
-    "Notes/---Vault---/README.md",
+    "Notes/---.md",
     "README.md",
+    "--- Vault ---/Welcome.md",
+    "--- Vault ---/Viewer.md",
+    "--- Vault ---/README.md",
+    "--- Vault ---",
+    "---Vault---/README.md",
+    "Notes/---Vault---/README.md",
     "Notes/---Vault---",
     "Viewer.md",
-    "Notes/---.md",
     "Notes",
-    "---Vault---/README.md",
     "00 - Maps of Content/Placeholder.md",
     "06 - Daily/Placeholder.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
@@ -210,11 +206,7 @@
     "99 - Meta/Preloaded Classes",
     "99 - Meta/00 - Templates",
     "07 - Archives/Placeholder.md",
-    "05 - Fleeting/Placeholder.md",
-    "04 - Permanent/Placeholder.md",
-    "02 - Areas/Placeholder.md",
     "99 - Meta",
-    "07 - Archives",
-    "06 - Daily"
+    "07 - Archives"
   ]
 }

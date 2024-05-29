@@ -1,24 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "---Vault---/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Notes/---Vault---/README.md"
+      "basename": "---",
+      "path": "Notes/---.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Viewer",
-      "path": "Viewer.md"
+      "basename": "README",
+      "path": "Notes/---Vault---/README.md"
     },
     {
-      "basename": "---",
-      "path": "Notes/---.md"
+      "basename": "Viewer",
+      "path": "Viewer.md"
     },
     {
       "basename": "Placeholder",
@@ -45,10 +41,6 @@
       "path": "01 - Projects/Automatic Cat Feeder/Untitled.canvas"
     },
     {
-      "basename": "Welcome",
-      "path": "---Vault---/Welcome.md"
-    },
-    {
       "basename": "202401211512 Notebook CSS Classes",
       "path": "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md"
     },
@@ -59,10 +51,6 @@
     {
       "basename": "(TEMPLATE) Unique",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
-    },
-    {
-      "basename": "Viewer",
-      "path": "---Vault---/Viewer.md"
     }
   ],
   "omittedPaths": [],
