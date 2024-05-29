@@ -167,4 +167,6 @@ This project aims to enhance the efficiency of machine learning algorithms, with
 
 ## Daniel Masamba, Tyler Morgan, Dr. Erik Enriquez, and Dr. Dong-Chul Kim
 ### Control Strategies for Cooperative Multi-Robot Tasks Using Multi-Agent Reinforcement Learning
-####
+#### Abstract
+This research project used a curriculum learning approach to train simulated agents with Reinforcement Learning (RL) techniques. By training agents on tasks simpler than the one meant for them to achieve, we saw more efficient and effective training for desired tasks than agents with no previous training. This could also lead to multiple, previously trained agents being able to collaborate on tasks more effectively. The research project’s priorities shifted from exploring the applications of Multi-Agent Reinforcement Learning (MARL) as we explored in more depth the variations of most effectively training a single agent as a precursor. However, our methods could lead to a more meaningful exploration of MARL strategies in the future.
+
