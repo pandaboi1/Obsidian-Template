@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/Placeholder.md",
+                "file": "---Vault---/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/Placeholder.md",
+                "file": "---Vault---/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps of Content/Placeholder.md",
+                "file": "---Vault---/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps of Content/Placeholder.md"
+                "file": "---Vault---/README.md"
               }
             }
           },
@@ -179,9 +179,14 @@
   },
   "active": "7e5041ded278606b",
   "lastOpenFiles": [
-    "--- Vault ---/README.md",
+    "Notes/---Vault---/README.md",
     "README.md",
+    "Notes/---Vault---",
     "Viewer.md",
+    "Notes/---.md",
+    "Notes",
+    "---Vault---/README.md",
+    "00 - Maps of Content/Placeholder.md",
     "06 - Daily/Placeholder.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "01 - Projects/Automatic Cat Feeder/new file.md",
@@ -190,14 +195,13 @@
     "06 - Daily/2024-05-27.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
     "06 - Daily/2024-W22.md",
-    "--- Vault ---/Welcome.md",
+    "---Vault---/Welcome.md",
     "create a link.md",
     "test page.md",
-    "00 - Maps of Content/Placeholder.md",
     "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
     "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
-    "--- Vault ---/Viewer.md",
+    "---Vault---/Viewer.md",
     "01 - Projects/Automatic Cat Feeder",
     "00 - Maps of Content",
     "Vault/new/Untitled.md",
@@ -209,11 +213,8 @@
     "05 - Fleeting/Placeholder.md",
     "04 - Permanent/Placeholder.md",
     "02 - Areas/Placeholder.md",
-    "03 - Resources/Placeholder.md",
     "99 - Meta",
     "07 - Archives",
-    "06 - Daily",
-    "05 - Fleeting",
-    "04 - Permanent"
+    "06 - Daily"
   ]
 }

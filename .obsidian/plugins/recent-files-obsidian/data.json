@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Placeholder",
-      "path": "00 - Maps of Content/Placeholder.md"
+      "basename": "README",
+      "path": "---Vault---/README.md"
     },
     {
       "basename": "README",
-      "path": "--- Vault ---/README.md"
+      "path": "Notes/---Vault---/README.md"
     },
     {
       "basename": "README",
@@ -15,6 +15,14 @@
     {
       "basename": "Viewer",
       "path": "Viewer.md"
+    },
+    {
+      "basename": "---",
+      "path": "Notes/---.md"
+    },
+    {
+      "basename": "Placeholder",
+      "path": "00 - Maps of Content/Placeholder.md"
     },
     {
       "basename": "README",
@@ -38,7 +46,7 @@
     },
     {
       "basename": "Welcome",
-      "path": "--- Vault ---/Welcome.md"
+      "path": "---Vault---/Welcome.md"
     },
     {
       "basename": "202401211512 Notebook CSS Classes",
@@ -54,7 +62,7 @@
     },
     {
       "basename": "Viewer",
-      "path": "--- Vault ---/Viewer.md"
+      "path": "---Vault---/Viewer.md"
     }
   ],
   "omittedPaths": [],

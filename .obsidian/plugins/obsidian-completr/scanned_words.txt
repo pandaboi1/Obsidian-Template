@@ -16,6 +16,7 @@ most
 mm
 make
 manila
+md
 is
 information
 inspiration
@@ -155,6 +156,7 @@ When
 keeping
 Git
 Repository
+README
 FAutomatic
 Feeder
 FREADME
