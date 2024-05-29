@@ -24,7 +24,7 @@ South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utr
 ## Dr. Lakshman Tamil
 ### Building AI Equality and Fairness
 
-Founded [MedCognetics](https://www.medcognetics.com) an unbiased AI company for healthcare [<here>](fref)
+Founded [MedCognetics](https://www.medcognetics.com) an unbiased AI company for healthcare. [link to section](#MedCognetics)
 #### AI Evolution (past to future)
 - ANI.
 	- Virtual assistant
@@ -65,3 +65,6 @@ Given background knowledge, positive and negative examples of a concept (trainin
 - Are 
 #### Machine Reasoning
 Given pieces of information (axioms) deduce new knowledge
+
+#### MedCognetics
+##### Their Research
