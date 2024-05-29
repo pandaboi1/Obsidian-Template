@@ -132,3 +132,5 @@ Given **training data** is roughly 80% overall data and **testing data** is the 
 ##### Reinforcement Learning 
 ###### Agent
 
+###### Environment 
+
