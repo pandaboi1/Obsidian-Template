@@ -5,4 +5,5 @@ cssclasses:
   - pen-purple
   - center-titles
 ---
-# Day 1
+# Day 1 - Introduction
+Presentation
