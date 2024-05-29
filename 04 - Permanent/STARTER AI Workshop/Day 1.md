@@ -41,9 +41,12 @@ South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utr
 	- Pose ethical & existential threat
 
 #### Artificial Intelligence (A.I.)
-Made up from **two** parts **Machine Learning** and **Machine Reasoning**.  Understanding why both are important you can build a parameters to prevent disasters in any groups. 
+Made up from **two** parts [[]] and **Machine Reasoning**.  Understanding why both are important you can build a parameters to prevent disasters in any groups. 
 
 Humans can understand reason and learn, and they recommend to read [“Thinking, Fast and Slow” by Daniel Kahneman](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) gain insight on *why* we think like this. 
 
-Machine Learninf 
+Machine Learning
+Given background knowledge, positive and negative examples of a concept (training data), goal of machine learning is to learn the general rule or function that captures that concept. 
 
+Machine Reasoning
+Given pieces of information (axioms) deduce new knowledge
