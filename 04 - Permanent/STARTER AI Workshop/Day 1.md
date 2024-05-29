@@ -40,5 +40,9 @@ South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utr
 	- Philosophical currently
 	- Pose ethical & existential threat
 
-#### Artif
+#### Artificial Intelligence (A.I.)
+Made up from **two** parts **Machine Learning** and **Machine Reasoning**.  Understanding why both are important you can build a parameters to prevent disasters in any groups. 
+
+Humans can understand 
+
 
