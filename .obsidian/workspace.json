@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa07b06aef7026d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4b09803bcfda3fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/20240529.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,11 +197,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "fa07b06aef7026d4",
+  "active": "d4b09803bcfda3fa",
   "lastOpenFiles": [
     "06 - Daily/20240529.md",
-    "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "starter.utrgv.edu.md",
+    "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "04 - Permanent/README.md",
     "README.md",
     "00 - Maps of Content/README.md",

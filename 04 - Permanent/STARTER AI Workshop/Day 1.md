@@ -13,7 +13,7 @@ Dept. of Physics and Astronomy
 Additional Support - NIH, NVIDIA, DLI, Physics and Astronomy
 
 #### S.T.A.R.T.E.R
-South Texas AI Training and Education Resources ([[20240529]])
+South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utrgv.edu))
 
 #### CRADLE
 - GPU cluster
