@@ -14,6 +14,6 @@ This is my mind map markdown file to *locate*/*visualize* my ideas.
 - [Resources](<03 - Resources/README.md>)
 - [Permanent](<04 - Permanent/README.md>)
 	- STARTER AI Workshop
-	- [Day 1](<04 - Permanent/StARTER AI Workshop/Day 1.md>)
-	- [STARTER AI Workshop](<04 - Permanent/StARTER AI Workshop/Day 2.md>)
-	- [STARTER AI Workshop](<04 - Permanent/StARTER AI Workshop/Day 3.md>)
+		- [Day 1](<04 - Permanent/StARTER AI Workshop/Day 1.md>)
+		- [Day 2](<04 - Permanent/StARTER AI Workshop/Day 2.md>)
+		- [Day 3](<04 - Permanent/StARTER AI Workshop/Day 3.md>)
