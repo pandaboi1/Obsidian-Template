@@ -2,6 +2,9 @@
 date: 2024-05-29T09:23:00
 cssclasses:
   - pen-purple
+tags:
+  - tech
+  - AI
 ---
 # Day 1 - Introduction
 ### Presenters : 
@@ -11,3 +14,7 @@ Additional Support - NIH, NVIDIA, DLI, Physics and Astronomy
 
 S.T.A.R.T.E.R
 South Texas AI Training and Education Resources (starter.utrgv.edu)
+
+
+`print("hello")` 
+
