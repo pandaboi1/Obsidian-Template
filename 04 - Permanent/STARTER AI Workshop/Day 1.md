@@ -15,7 +15,7 @@ cssclasses:
 - Additional Support - NIH, NVIDIA, DLI, Physics and Astronomy
 
 #### S.T.A.R.T.E.R
-South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utrgv.edu))
+South Texas AI Training and Education Resources ( [starter.utrgv.edu](https://starter.utrgv.edu/workshops) )
 #### CRADLE
 - GPU cluster
 - 2 (out of 14) nodes ==dedicated to STARTER==
@@ -155,5 +155,6 @@ TensorFlow is widely used, but PyTorch is becoming the new standard
 #### Reinforcement Learning 
 ##### Algorithms
 
-## Dr. 
-### AI-Driven Design and Nanomaterials
+## Amber Garcia and Dr. Julie P. Vanegas
+## - U.T.R.G.V. Research Group
+### AI-Driven Design and Synthesis of Nanomaterials for the detection of fentanyl and derivatives
