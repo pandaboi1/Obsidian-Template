@@ -14,16 +14,7 @@ This is my *Notes* for pretty much anything I can think of.
 - I added what I needed as I expanded upon it
 - The idea is to *help* me organize my thoughts together
 
-## Table of Contents
-- [Vault](<--- Vault ---/README.md>)
-- [Maps of Content](<00 - Maps of Content/README.md>)
-- [Projects](<>)
-	- []()(< relitive path >)
-- [Areas of Interest](02%20-%20Areas%20of%20Interest/README.md of Interest/areas>)
-- 
-
-[Mind Map🗺️](00%20-%20Maps%20of%20Content/README.md of content/map>)
-
+## [Mind Map Navigation](<00 - Maps of Content/README.md>)
 ---
 
 ### **End of Document**

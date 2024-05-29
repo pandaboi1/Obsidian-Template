@@ -6,8 +6,9 @@ cssclasses:
 # Mind Map
 This is my mind map markdown file to *locate*/*visualize* my ideas. 
 
-## Links
-
-#tech 
-[[Excalidraw/Drawing 2024-05-29 12.40.35.excalidraw.md#^T9hqqLB5UK3c1zdbmjYUv|drawing]]
+## Links to README
+- [Vault](<--- Vault ---/README.md>)
+- [Projects](<01 - Projects/README.md>)
+	- [Automatic Pet Feeder]()(<01 - Projects/Automatic >)
+- [Areas of Interest](02%20-%20Areas%20of%20Interest/README.md of Interest/areas>)
 

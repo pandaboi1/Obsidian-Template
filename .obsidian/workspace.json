@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "00 - Maps of Content/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,12 +105,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+                "file": "00 - Maps of Content/README.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5e22029123cecce5",
@@ -131,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+                "file": "00 - Maps of Content/README.md"
               }
             }
           },
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "00 - Maps of Content/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
+                "file": "00 - Maps of Content/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,12 +186,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "86e6e84c5137a7c0",
+  "active": "510916d7257f5672",
   "lastOpenFiles": [
+    "--- Vault ---/README.md",
+    "00 - Maps of Content/README.md",
+    "README.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
     "06 - Daily/20240529.md",
-    "README.md",
     "06 - Daily/20240528.md",
     "04 - Permanent/README.md",
     "202405291503.md",
@@ -201,7 +202,6 @@
     "Pasted image 20240529143532.png",
     "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.png",
     "Excalidraw/Drawing 2024-05-29 12.40.35.excalidraw.md",
-    "00 - Maps of Content/README.md",
     "02 - Areas of Interest/README.md",
     "Excalidraw",
     "07 - Archives/README.md",
@@ -209,10 +209,9 @@
     "03 - Resources/README.md",
     "06 - Daily/README.md",
     "05 - Fleeting/README.md",
-    "01 - Projects/Automatic Cat Feeder/README.md",
-    "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
+    "01 - Projects/Automatic Pet Feeder/README.md",
+    "01 - Projects/Automatic Pet Feeder/Untitled.canvas",
     "01 - Projects/README.md",
-    "--- Vault ---/README.md",
     "---.md",
     "--- Vault ---/Viewer.md",
     "--- Vault ---/Welcome.md",
