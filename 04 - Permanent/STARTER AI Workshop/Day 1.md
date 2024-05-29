@@ -94,6 +94,11 @@ MedCognetics provides an advanced AI software platform that integrates into radi
 
 #### Machine Learning Model: AI is a Black Box
 ##### Trustworthiness (IBM.com)
-That it is fair, reliable, can be held accountable for, and can cause NO harm.
-That it can not be tempered with and be secure
-Be able to look inside the model
+- That it is fair, reliable, can be held accountable for, and can cause NO harm.
+- That it can not be tempered with and be secure
+- Be able to look inside the model to understand how it works
+##### Understandability
+- f
+
+#### How do Humans Interpret Information?
+Sensory context, inferencing, and prior knowledge of the given information to make a con
