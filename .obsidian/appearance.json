@@ -1,13 +1,22 @@
 {
-  "accentColor": "#00bfe6",
+  "accentColor": "#43cfea",
   "cssTheme": "Vanilla AMOLED",
-  "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "enabledCssSnippets": [
+    "retro-notebook-bg",
+    "Daily Note",
+    "Notebook Backgrounds",
+    "Runescape",
+    "Japanese Fonts",
+    "Japanese Font Support",
     "Colored Sidebar Items",
-    "Daily Note Themes",
-    "Notebook Backgrounds"
+    "Minecraft",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes"
   ],
-  "baseFontSize": 13
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 17
 }

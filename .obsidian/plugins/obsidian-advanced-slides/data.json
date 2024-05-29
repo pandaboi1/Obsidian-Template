@@ -9,7 +9,7 @@
   "enableTimeBar": false,
   "theme": "black",
   "highlightTheme": "zenburn",
-  "transition": "slide",
+  "transition": "none",
   "transitionSpeed": "default",
   "controls": true,
   "progress": true,
@@ -17,5 +17,5 @@
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-  "motm": "2024-05-25T03:02:00.700Z"
+  "motm": "2024-03-03T21:11:53.576Z"
 }
