@@ -153,21 +153,25 @@ TensorFlow is widely used, but PyTorch is becoming the new standard
 
 #### Reinforcement Learning 
 ##### Algorithms
+--- 
 
 ## Amber Garcia and Dr. Julie P. Vanegas - U.T.R.G.V. Research Group
 ### AI-Driven Design and Synthesis of Nanomaterials for the detection of fentanyl and derivatives
 #### Abstract
-The opioid crisis, significantly intensified by the widespread abuse of synthetic opioids like fentanyl, represents a formidable public health challenge. Conventional opioid detection methodologies lack the sensitivity and specificity required to effectively counter the rapid emergence and proliferation of these potent synthetic substances. This project proposes the novel development of aptamer-based nanosensors, employing cutting-edge advancements in nanotechnology, biochemistry, and artificial intelligence (AI) to overcome this inadequacy.
+	The opioid crisis, significantly intensified by the widespread abuse of synthetic opioids like fentanyl, represents a formidable public health challenge. Conventional opioid detection methodologies lack the sensitivity and specificity required to effectively counter the rapid emergence and proliferation of these potent synthetic substances. This project proposes the novel development of aptamer-based nanosensors, employing cutting-edge advancements in nanotechnology, biochemistry, and artificial intelligence (AI) to overcome this inadequacy.
 
 ## Hector Lugo, Arturo Meza-Canales, Osvaldo Garza, Dr. Erik Enriquez, and Dr. Dong-Chul Kim
 ### Autoencoders in Reinforcement Learning
 #### Abstract
-This project aims to enhance the efficiency of machine learning algorithms, with a particular focus on reinforcement learning (RL) models. Our objective is to reduce the complexity of environmental observations in order to increase the overall efficiency and effectiveness of RL agents. To achieve this, we will integrate an autoencoder, a neural network designed to compress data while preserving its key features. Our research will employ several benchmark models from MuJoCo, allowing us to compare the model’s performance when trained with encoded versus raw observational data. Through this investigation, we anticipate uncovering insights that could lead to more streamlined training, and create avenues to train RL agents on more complex tasks.
+	This project aims to enhance the efficiency of machine learning algorithms, with a particular focus on reinforcement learning (RL) models. Our objective is to reduce the complexity of environmental observations in order to increase the overall efficiency and effectiveness of RL agents. To achieve this, we will integrate an autoencoder, a neural network designed to compress data while preserving its key features. Our research will employ several benchmark models from MuJoCo, allowing us to compare the model’s performance when trained with encoded versus raw observational data. Through this investigation, we anticipate uncovering insights that could lead to more streamlined training, and create avenues to train RL agents on more complex tasks.
 
 
 ## Daniel Masamba, Tyler Morgan, Dr. Erik Enriquez, and Dr. Dong-Chul Kim
 ### Control Strategies for Cooperative Multi-Robot Tasks Using Multi-Agent Reinforcement Learning
 #### Abstract
-This research project used a curriculum learning approach to train simulated agents with Reinforcement Learning (RL) techniques. By training agents on tasks simpler than the one meant for them to achieve, we saw more efficient and effective training for desired tasks than agents with no previous training. This could also lead to multiple, previously trained agents being able to collaborate on tasks more effectively. The research project’s priorities shifted from exploring the applications of Multi-Agent Reinforcement Learning (MARL) as we explored in more depth the variations of most effectively training a single agent as a precursor. However, our methods could lead to a more meaningful exploration of MARL strategies in the future.
+	This research project used a curriculum learning approach to train simulated agents with Reinforcement Learning (RL) techniques. By training agents on tasks simpler than the one meant for them to achieve, we saw more efficient and effective training for desired tasks than agents with no previous training. This could also lead to multiple, previously trained agents being able to collaborate on tasks more effectively. The research project’s priorities shifted from exploring the applications of Multi-Agent Reinforcement Learning (MARL) as we explored in more depth the variations of most effectively training a single agent as a precursor. However, our methods could lead to a more meaningful exploration of MARL strategies in the future.
 
-## 
+## Jofred Gonzalez, Dr. Damian Valles, and Dr. John W. Farrell III CSCS, CPSS
+### The Development of a Disability Assessment Tool using Biosensors and Machine Learning for Persons with Multiple Sclerosis
+#### Abstract
+	The development of a tool to assess Multiple Sclerosis severity using Inertial Mass Units (Motion Sensors) and Machine Learning aims to simplify the assessment of MS severity for the lower extremities of the human body. More specifically, this presentation discusses how data was collected and prepared to be processed by a non-binary classification machine learning algorithm to create a model that will output a number from 0 to 10 emulating the Expanded Disability Status Scale assessment.
