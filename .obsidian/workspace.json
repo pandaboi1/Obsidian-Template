@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59be2da53a80b6d3",
+        "id": "b0ed0c7fb096f8db",
         "type": "tabs",
         "children": [
           {
-            "id": "e9621d40a7a7c442",
+            "id": "fa07b06aef7026d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/20240528.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/20240528.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/20240528.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +88,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "06 - Daily/20240528.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,13 +147,10 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "06 - Daily/20240528.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "5e22029123cecce5",
@@ -197,15 +187,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e9621d40a7a7c442",
+  "active": "fa07b06aef7026d4",
   "lastOpenFiles": [
-    "06 - Daily/20240527.md",
     "06 - Daily/20240528.md",
+    "01 - Projects/Automatic Cat Feeder/README.md",
+    "06 - Daily/20240527.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
-    "01 - Projects/Automatic Cat Feeder/README.md",
     "00 - Maps of Content/Map.md",
     "README.md",
     "Viewer.md",
