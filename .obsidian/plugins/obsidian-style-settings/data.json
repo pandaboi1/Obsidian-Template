@@ -4,8 +4,8 @@
   "minAppVersion": "1.5.0",
   "author": "pandaboi1",
   "authorUrl": "https//github.com/pandaboi1",
-  "vauxhall@@main-color": "vauxhall-teal",
-  "vauxhall@@color-intensity": "intensity-nebula",
+  "vauxhall@@main-color": "vauxhall-indigo",
+  "vauxhall@@color-intensity": "intensity-void",
   "vauxhall@@header-color-type": "headers-colorful",
   "vauxhall@@h1-accent": true
 }

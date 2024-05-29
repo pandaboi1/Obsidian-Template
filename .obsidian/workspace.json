@@ -11,14 +11,11 @@
             "id": "e9621d40a7a7c442",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
-                "viewState": {
-                  "x": -119,
-                  "y": -32,
-                  "zoom": 0
-                }
+                "file": "06 - Daily/20240528.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -74,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
+                "file": "06 - Daily/20240528.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
+                "file": "06 - Daily/20240528.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/Untitled.canvas"
+                "file": "06 - Daily/20240528.md"
               }
             }
           },
@@ -158,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01 - Projects/Automatic Cat Feeder/Untitled.canvas"
+                "file": "06 - Daily/20240528.md"
               }
             }
           }
@@ -202,14 +199,18 @@
   },
   "active": "e9621d40a7a7c442",
   "lastOpenFiles": [
+    "06 - Daily/20240527.md",
+    "06 - Daily/20240528.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "00 - Maps of Content/Map.md",
     "README.md",
     "Viewer.md",
     "create a link.md",
-    "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
     "02 - Areas of Interest/Areas.md",
-    "06 - Daily/20240528.md",
     "01 - Projects/Automatic Cat Feeder/new file.md",
     "202405282038.md",
     "--- Vault ---/README.md",
@@ -218,9 +219,6 @@
     "04 - Permanent/Placeholder.md",
     "00 - Maps of Content.md",
     "00.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "Untitled.canvas",
     "Notes/---Vault---/README.md",
     "Notes/---.md",
