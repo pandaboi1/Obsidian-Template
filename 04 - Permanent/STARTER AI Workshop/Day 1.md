@@ -111,8 +111,8 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 ---
 # Workshop pt2 @1:30pm
 ## Dr. Kim - U.T.R.G.V. Grad. Professor
-### Intro to AI 
-### & Interdisciplinary Research
+### Intro to AI & 
+### Interdisciplinary Research
 
 #### Perception 
 How to distinguish differences in images and identify conclusions. 
@@ -146,7 +146,7 @@ Data stored in a database, Excel spreadsheet, etc. , which
 ##### 4. Model Implementation
 Using TensorFlow or **PyTorch**
 
-TensorFlow is widely used 
+TensorFlow is widely used, but PyTorch is becoming the new standard
 ##### 5. Training, Evaluation, and Analysis
 ###### Training and Evaluation
 
