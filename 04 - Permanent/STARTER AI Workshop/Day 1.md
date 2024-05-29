@@ -129,8 +129,14 @@ Given **training data** is roughly 80% overall data and **testing data** is the 
 - Neural Network
 - Output
 
-##### Reinforcement Learning 
-###### Agent
+#### To Build an AI
+##### 1. Fundamental Principles for Collaboration
+###### Build Team
+- 
+##### 2. Mutual  Presentation
+###### Both parties should present their research
+- Crucial to
 
-###### Environment 
+##### 3. Data Preparation and Methods
+#####
 
