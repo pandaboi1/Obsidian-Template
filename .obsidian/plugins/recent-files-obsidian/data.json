@@ -2,7 +2,19 @@
   "recentFiles": [
     {
       "basename": "README",
+      "path": "03 - Resources/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "02 - Areas of Interest/README.md"
+    },
+    {
+      "basename": "README",
       "path": "01 - Projects/Automatic Cat Feeder/README.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "01 - Projects/Automatic Cat Feeder/Untitled.canvas"
     },
     {
       "basename": "README",
@@ -53,10 +65,6 @@
       "path": "04 - Permanent/README.md"
     },
     {
-      "basename": "Untitled",
-      "path": "01 - Projects/Automatic Cat Feeder/Untitled.canvas"
-    },
-    {
       "basename": "(TEMPLATE) Daily",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Daily.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "(TEMPLATE) Unique",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
-    },
-    {
-      "basename": "Areas",
-      "path": "02 - Areas of Interest/Areas.md"
     }
   ],
   "omittedPaths": [],
