@@ -7,7 +7,7 @@ cssclasses:
   - daily
 ---
 # Day 1 - Introduction
-### Presenters : 
+#### Presenters : 
 - Soumya D. Mohanty
 - [Dr. Lakshman Tamil](#Dr. Lakshman Tamil - MedCognetics)
 - [Gopal Gupta](#Gopal Gupta - U.T.D. Grad. Professor)
