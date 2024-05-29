@@ -21,7 +21,6 @@ South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utr
 - Scalability depending on necessity 
 
 ---
-
 ## Dr. Lakshman Tamil
 ### AI Equality and Fairness
 #### AI Evolution (past to future)
@@ -31,7 +30,15 @@ South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utr
 	- Recommendation Algorithm
 	- Autonomous Vehicle
 - AGI (We are here)
+	- Positive development
+	- Significant social benefits
 - Super Intelligent AI ASI
+	- Transformative but unpredictable 
+	- Solve complex problems
+	- May pose existential threat
 - Sentient AI
+	- Philosophical currently
+	- Pose ethical & existential threat
 
+#### Artif
 
