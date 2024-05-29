@@ -3,6 +3,7 @@ date: 2024-05-29T09:23:00
 tags:
   - tech
   - AI
+  - Indie
 cssclasses:
   - daily
 ---
@@ -175,3 +176,8 @@ TensorFlow is widely used, but PyTorch is becoming the new standard
 ### The Development of a Disability Assessment Tool using Biosensors and Machine Learning for Persons with Multiple Sclerosis
 #### Abstract
 	The development of a tool to assess Multiple Sclerosis severity using Inertial Mass Units (Motion Sensors) and Machine Learning aims to simplify the assessment of MS severity for the lower extremities of the human body. More specifically, this presentation discusses how data was collected and prepared to be processed by a non-binary classification machine learning algorithm to create a model that will output a number from 0 to 10 emulating the Expanded Disability Status Scale assessment.
+
+## Manoj Chhetri and Dr. Karen Martirosyan
+### AI based prediction of the charge storage capability of Lithium-ion battery materials
+#### Abstract
+	In this report, a machine learning approach was implemented to a dataset of 2345 entries of rechargeable Li-ion battery materials, obtained from MaterialsProject online portal, to predict the gravimetric charge storing capacity (mAh/g) which is a crucial parameter in a battery for its energy storage capabilities. This study highlighted the possibility of using machine learning models in materials science by integrating domain-specific knowledge with advance statistical techniques. It provides insight for informed decision-making and tuning the important parameters to achieve the highest possible charge storage capacity in battery materials design and optimization process. By accurately predicting the gravimetric capacity of battery materials taking into account of intrinsic battery properties such as voltage, energy density and stability, our model contributes to discover and deploy more efficient and sustainable battery solutions. 

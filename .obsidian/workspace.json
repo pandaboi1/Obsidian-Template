@@ -54,6 +54,21 @@
             }
           },
           {
+            "id": "a031b8c146eafa66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "7da54ae5a0ae5574",
             "type": "leaf",
             "state": {
@@ -94,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -109,21 +125,6 @@
         "type": "tabs",
         "dimension": 58.06451612903226,
         "children": [
-          {
-            "id": "a031b8c146eafa66",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "8db1c4cf73e6f883",
             "type": "leaf",
@@ -151,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5e22029123cecce5",
@@ -176,7 +177,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,17 +203,17 @@
   },
   "active": "86e6e84c5137a7c0",
   "lastOpenFiles": [
-    "README.md",
+    "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
+    "06 - Daily/20240529.md",
+    "README.md",
     "06 - Daily/20240528.md",
     "04 - Permanent/README.md",
     "202405291503.md",
-    "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.md",
     "starter.utrgv.edu.md",
     "Pasted image 20240529143753.png",
     "Pasted image 20240529143532.png",
     "04 - Permanent/STARTER AI Workshop/Drawing 2024-05-29 14.29.04.excalidraw.png",
-    "06 - Daily/20240529.md",
     "Excalidraw/Drawing 2024-05-29 12.40.35.excalidraw.md",
     "00 - Maps of Content/README.md",
     "02 - Areas of Interest/README.md",
