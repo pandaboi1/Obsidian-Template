@@ -155,4 +155,5 @@ TensorFlow is widely used, but PyTorch is becoming the new standard
 #### Reinforcement Learning 
 ##### Algorithms
 
-![[Pasted image 20240529143532.png]]
+## Dr. 
+### AI-Driven Design and Nanomaterials
