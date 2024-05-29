@@ -92,3 +92,8 @@ MedCognetics provides an advanced AI software platform that integrates into radi
 ## Gopal Gupta - U.T.D. Grad. Professor
 ### Interpretability, Understandability, and Trustworthiness in AI
 
+#### Machine Learning Model: AI is a Black Box
+##### Trustworthiness (IBM.com)
+That it is fair, reliable, can be held accountable for, and can cause NO harm.
+That it can not be tempered with and be secure
+Be able to look inside the model
