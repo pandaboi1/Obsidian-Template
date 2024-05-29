@@ -98,7 +98,9 @@ MedCognetics provides an advanced AI software platform that integrates into radi
 - That it can not be tempered with and be secure
 - Be able to look inside the model to understand how it works
 ##### Understandability
-- 
+- Model need to able to be corrected manually
+- Follow the law in countries
+- Develops tr
 
 #### How do Humans Interpret Information?
 Sensory context, inferencing, and prior knowledge of the given information to make a conclusion to what the given information.
