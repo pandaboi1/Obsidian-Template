@@ -5,6 +5,10 @@
       "path": "README.md"
     },
     {
+      "basename": "README",
+      "path": "--- Vault ---/README.md"
+    },
+    {
       "basename": "---",
       "path": "Notes/---.md"
     },
