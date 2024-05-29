@@ -110,4 +110,7 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 
 ---
 # Workshop pt2 @1:30pm
-## Dr. Kim - U.T.R.G.V. Grad Professor
+## Dr. Kim - U.T.R.G.V. Grad. Professor
+### Intro to AI 
+### & Interdisciplinary Research
+#### 
