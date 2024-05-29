@@ -67,6 +67,9 @@ Given background knowledge, positive and negative examples of a concept (trainin
 Given pieces of information (axioms) deduce new knowledge
 
 #### MedCognetics 
+##### Their Research
+- Has built their model for diversity
+- Specialization on Breast Cancer 
 
 [NewsDirect article BY MEDCOGNETICS](https://newsdirect.com/news/medcognetics-secures-groundbreaking-patent-for-inclusive-unbiased-medical-imaging-ai-technology-in-mammography-844844123)
 In a significant stride towards equitable healthcare technology, [MedCognetics, Inc](https://u.newsdirect.com/Em4-uMp5rmfktjibF74rFA9llJQUWOnrl5eX6-WmpiTnp-ellmQmF-sl5-fqM-SllhdnlCYBAgAA__8TDc37jTeNCEPNy1BT7PPFCycaoCXS-Wkzx5M1w)., a company focusing on [medical imaging AI](https://u.newsdirect.com/Em4-uMp5rmfktjibF74rFA9llJQUFFvp6xcUlCYV65UWF5Tk66Xnl-mnZBYVpyYWJWfoFpQm5WQm6xcUZeaV6Kfkl-fl5CemBKSk6RsaWppYGFmaM-SllhdnlCYBAgAA__8_JGbT-JyUQhLB3KHcYGJNHHdrT4sXwpt04utag), today announced it has been awarded patent number 11,948,297 by the United States Patent and Trademark Office (USPTO).
@@ -82,6 +85,6 @@ Full details of the allowance are listed in the Issue Notification Certificate i
 **About MedCognetics, Inc.**
 
 MedCognetics provides an advanced AI software platform that integrates into radiology workflow. In addition, the AI algorithm is trained on a diverse global patient dataset to mitigate data biasing. The future of AI in healthcare is unbiased services and MedCognetics is at the forefront of creating a more predictable medical outcome and ultimately saving lives. Founded in 2020, the company is based in Dallas, Texas. For more information, please visit our website at [www.medcognetics.com](https://u.newsdirect.com/Em4-uMp5rmfktjibF74rFA9llJQUWOnrl5eX6-WmpiTnp-ellmQmF-sl5-cy5KWWF2eUJgECAAD__w99CGajOm6-pDbdmzCd3D-nXyClDdu4E1BZr6Fg).
-##### Their Research
-- Has built their model for diversity
-- Specialization on Breast Cancer 
+
+---
+# 
