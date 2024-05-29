@@ -1,11 +1,13 @@
 ---
 date: 2024-05-29T09:23:00
 cssclasses:
-  - page-dark
   - pen-purple
 ---
 # Day 1 - Introduction
 ### Presenters : 
 Soumya D. Mohanty
 Dept. of Physics and Astronomy
-Additional Support - NIG
+Additional Support - NIH, NVIDIA, DLI, Physics and Astronomy
+
+S.T.A.R.T.E.R
+South Texas AI Training and Education Resources (starter.utrgv.edu)
