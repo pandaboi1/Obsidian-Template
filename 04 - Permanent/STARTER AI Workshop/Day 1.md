@@ -24,4 +24,14 @@ South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utr
 
 ## Dr. Lakshman Tamil
 ### AI Equality and Fairness
-#### AI Evolution (
+#### AI Evolution (past to future)
+- ANI.
+	- Virtual assistant
+	- Image recognition
+	- Recommendation Algorithm
+	- Autonomous Vehicle
+- AGI (We are here)
+- Super Intelligent AI ASI
+- Sentient AI
+
+
