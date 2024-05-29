@@ -1,7 +1,6 @@
 ---
 date: 2024-05-29T09:23:00
-cssclasses:
-  - pen-purple
+cssclasses: []
 tags:
   - tech
   - AI
@@ -100,7 +99,11 @@ MedCognetics provides an advanced AI software platform that integrates into radi
 ##### Understandability
 - Model need to able to be corrected manually
 - Follow the law in countries
-- Develops tr
+- Develops trust in the model
 
 #### How do Humans Interpret Information?
 Sensory context, inferencing, and prior knowledge of the given information to make a conclusion to what the given information.
+
+#### Understandable AI as Default Rules
+**FOLD** - learn default rules that capture patterns in data
+**Default Logic** - can express 
