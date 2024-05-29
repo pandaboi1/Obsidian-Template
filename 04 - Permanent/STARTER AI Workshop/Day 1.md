@@ -87,4 +87,5 @@ Full details of the allowance are listed in the Issue Notification Certificate i
 MedCognetics provides an advanced AI software platform that integrates into radiology workflow. In addition, the AI algorithm is trained on a diverse global patient dataset to mitigate data biasing. The future of AI in healthcare is unbiased services and MedCognetics is at the forefront of creating a more predictable medical outcome and ultimately saving lives. Founded in 2020, the company is based in Dallas, Texas. For more information, please visit our website at [www.medcognetics.com](https://u.newsdirect.com/Em4-uMp5rmfktjibF74rFA9llJQUWOnrl5eX6-WmpiTnp-ellmQmF-sl5-cy5KWWF2eUJgECAAD__w99CGajOm6-pDbdmzCd3D-nXyClDdu4E1BZr6Fg).
 
 ---
-# 
+# Gopal Gupta
+## Interpretability, Explainability, and Trustworthiness in AI

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/README - Map.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps of Content/README - Map.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/README - Map.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps of Content/README - Map.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - Maps of Content/README - Map.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           }
@@ -199,9 +199,9 @@
   },
   "active": "7632fba9f4677b7d",
   "lastOpenFiles": [
+    "00 - Maps of Content/README - Map.md",
     "README.md",
     "READMEc- Map.md",
-    "00 - Maps of Content/README - Map.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "[.md",
     "[[.md",
