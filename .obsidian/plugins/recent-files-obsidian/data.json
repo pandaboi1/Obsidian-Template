@@ -5,8 +5,28 @@
       "path": "04 - Permanent/STARTER AI Workshop/Day 1.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Viewer",
+      "path": "Viewer.md"
+    },
+    {
+      "basename": "Day 3",
+      "path": "04 - Permanent/STARTER AI Workshop/Day 3.md"
+    },
+    {
+      "basename": "Day 2",
+      "path": "04 - Permanent/STARTER AI Workshop/Day 2.md"
+    },
+    {
       "basename": "20240529",
       "path": "06 - Daily/20240529.md"
+    },
+    {
+      "basename": "20240528",
+      "path": "06 - Daily/20240528.md"
     },
     {
       "basename": "README",
@@ -14,15 +34,7 @@
     },
     {
       "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "README",
       "path": "00 - Maps of Content/README.md"
-    },
-    {
-      "basename": "20240528",
-      "path": "06 - Daily/20240528.md"
     },
     {
       "basename": "README",
@@ -43,10 +55,6 @@
     {
       "basename": "(TEMPLATE) Unique",
       "path": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
-    },
-    {
-      "basename": "Viewer",
-      "path": "Viewer.md"
     },
     {
       "basename": "Areas",

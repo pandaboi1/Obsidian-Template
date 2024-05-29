@@ -2,6 +2,7 @@
 cssclasses:
   - center-titles
   - page-grid
+  - center-images
 ---
 # Hello and Welcome to my Notes
 

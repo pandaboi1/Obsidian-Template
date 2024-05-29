@@ -23,6 +23,8 @@ South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utr
 ---
 ## Dr. Lakshman Tamil
 ### AI Equality and Fairness
+
+MedCognetics 
 #### AI Evolution (past to future)
 - ANI.
 	- Virtual assistant
