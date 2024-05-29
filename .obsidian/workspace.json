@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "5e22029123cecce5",
@@ -186,18 +186,18 @@
       "daily-notes:Open today's daily note": false,
       "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": true,
-      "command-palette:Open command palette": true,
       "graph:Open graph view": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-importer:Open Importer": true,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": true
     }
   },
-  "active": "7632fba9f4677b7d",
+  "active": "510916d7257f5672",
   "lastOpenFiles": [
     "00 - Maps of Content/README - Map.md",
     "README.md",

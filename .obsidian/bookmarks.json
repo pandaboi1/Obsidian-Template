@@ -8,8 +8,20 @@
     },
     {
       "type": "file",
-      "ctime": 1717000621998,
-      "path": "README.md",
+      "ctime": 1717000712636,
+      "path": "04 - Permanent/STARTER AI Workshop/Day 1.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1717000745278,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1717000621998,
+          "path": "README.md",
+          "title": "README"
+        }
+      ],
       "title": "README"
     }
   ]
