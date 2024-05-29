@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps of Content/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps of Content/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,12 +155,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - Maps of Content/README.md"
+                "file": "README.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "5e22029123cecce5",
@@ -199,15 +199,16 @@
   },
   "active": "7632fba9f4677b7d",
   "lastOpenFiles": [
+    "04 - Permanent/STARTER AI Workshop/Day 1.md",
+    "04 - Permanent/README.md",
+    "00 - Maps of Content/README.md",
+    "06 - Daily/20240528.md",
     "07 - Archives/README.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "06 - Daily/20240528.md",
     "06 - Daily/20240529.md",
     "README.md",
-    "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "02 - Areas of Interest/README.md",
     "03 - Resources/README.md",
-    "04 - Permanent/README.md",
     "06 - Daily/README.md",
     "05 - Fleeting/README.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
@@ -218,7 +219,6 @@
     "--- Vault ---/Viewer.md",
     "--- Vault ---/Welcome.md",
     "Viewer.md",
-    "00 - Maps of Content/README.md",
     "READMEc- Map.md",
     "[.md",
     "[[.md",

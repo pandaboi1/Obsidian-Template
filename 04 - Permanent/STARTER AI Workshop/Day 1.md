@@ -3,6 +3,8 @@ date: 2024-05-29T09:23:00
 tags:
   - tech
   - AI
+cssclasses:
+  - page-manila
 ---
 # Day 1 - Introduction
 ### Presenters : 
