@@ -8,9 +8,11 @@ tags:
 ---
 # Day 1 - Introduction
 ### Presenters : 
-Soumya D. Mohanty
-Dept. of Physics and Astronomy
-Additional Support - NIH, NVIDIA, DLI, Physics and Astronomy
+- Soumya D. Mohanty
+- [Dr. Lakshman Tamil](#Dr. Lakshman Tamil - MedCognetics)
+- [Gopal Gupta](#Gopal Gupta - U.T.D. Grad. Professor)
+- Dept. of Physics and Astronomy
+- Additional Support - NIH, NVIDIA, DLI, Physics and Astronomy
 
 #### S.T.A.R.T.E.R
 South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utrgv.edu))
