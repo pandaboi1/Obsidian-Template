@@ -7,6 +7,5 @@ cssclasses:
   - page-dark
   - pen-light-blue
 ---
-# Git Repository
-This is a note placeholder.
+# Pet Feeder
 
