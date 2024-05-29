@@ -119,4 +119,11 @@ How to distinguish differences in images and identify conclusions.
 
 #### Learning 
 #####  Train and Test Data
-Given training data is roughly 80% overall data and testign
+Given **training data** is roughly 80% overall data and **testing data** is the other 20%.
+
+##### Machine Learning vs. Deep Learning 
+Machine learning has human intervention layer to interpret data, while deep learning is just the normal layer. 
+
+3 layer are:
+- Input
+- 
