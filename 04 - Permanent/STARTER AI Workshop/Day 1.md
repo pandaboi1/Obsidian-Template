@@ -3,7 +3,8 @@ date: 2024-05-29T09:23:00
 tags:
   - tech
   - AI
-cssclasses: []
+cssclasses:
+  - daily
 ---
 # Day 1 - Introduction
 ### Presenters : 
@@ -108,4 +109,4 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 **Default Logic** - can express 
 
 ---
-## Workshop %t
+## Workshop @1:30pm
