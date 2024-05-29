@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README - Main.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README - Main.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README - Main.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README - Main.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README - Main.md"
+                "file": "README.md"
               }
             }
           }
@@ -197,10 +197,11 @@
       "obsidian-importer:Open Importer": true
     }
   },
-  "active": "7632fba9f4677b7d",
+  "active": "510916d7257f5672",
   "lastOpenFiles": [
-    "--- Vault ---/README - Vault.md",
-    "README - Main.md",
+    "---.md",
+    "README.md",
+    "--- Vault ---/README.md",
     "--- Vault ---/Viewer.md",
     "--- Vault ---/Welcome.md",
     "Viewer.md",
@@ -226,7 +227,6 @@
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "create a link.md",
     "02 - Areas of Interest/Areas.md",
-    "01 - Projects/Automatic Cat Feeder/new file.md",
     "Untitled.canvas"
   ]
 }

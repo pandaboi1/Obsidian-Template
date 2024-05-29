@@ -15,8 +15,8 @@ This is my *Notes* for pretty much anything I can think of.
 - The idea is to *help* me organize my thoughts together
 
 ## Table of Contents
-
-- [Maps of Content](<00 - Maps of Content/README - Map.md>)
+- [Vault](<--- Vault ---/README.md>)
+- [Maps of Content](<00 - Maps of Content/README.md>)
 - [Projects](<>)
 	- []()(< relitive path >)
 - [Areas of Interest](<Areas of Interest/areas>)
