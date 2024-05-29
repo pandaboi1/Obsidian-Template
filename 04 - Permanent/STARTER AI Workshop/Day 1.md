@@ -116,3 +116,7 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 
 #### Perception 
 How to distinguish differences in images and identify conclusions. 
+
+#### Learning 
+#####  Train and Test Data
+Given training data is roughly 80% overall data and testign
