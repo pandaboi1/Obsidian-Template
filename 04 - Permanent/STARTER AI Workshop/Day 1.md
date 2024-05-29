@@ -62,12 +62,13 @@ Given background knowledge, positive and negative examples of a concept (trainin
 - 
 
 ##### Applications of Neural Networks
-- Are 
+- 
 #### Machine Reasoning
 Given pieces of information (axioms) deduce new knowledge
 
-#### MedCognetics
-[# MedCognetics Secures Groundbreaking Patent for Inclusive, Unbiased Medical Imaging AI Technology in Mammography ](https://newsdirect.com/news/medcognetics-secures-groundbreaking-patent-for-inclusive-unbiased-medical-imaging-ai-technology-in-mammography-844844123)
+#### MedCognetics 
+
+[NewsDirect article BY MEDCOGNETICS](https://newsdirect.com/news/medcognetics-secures-groundbreaking-patent-for-inclusive-unbiased-medical-imaging-ai-technology-in-mammography-844844123)
 In a significant stride towards equitable healthcare technology, [MedCognetics, Inc](https://u.newsdirect.com/Em4-uMp5rmfktjibF74rFA9llJQUWOnrl5eX6-WmpiTnp-ellmQmF-sl5-fqM-SllhdnlCYBAgAA__8TDc37jTeNCEPNy1BT7PPFCycaoCXS-Wkzx5M1w)., a company focusing on [medical imaging AI](https://u.newsdirect.com/Em4-uMp5rmfktjibF74rFA9llJQUFFvp6xcUlCYV65UWF5Tk66Xnl-mnZBYVpyYWJWfoFpQm5WQm6xcUZeaV6Kfkl-fl5CemBKSk6RsaWppYGFmaM-SllhdnlCYBAgAA__8_JGbT-JyUQhLB3KHcYGJNHHdrT4sXwpt04utag), today announced it has been awarded patent number 11,948,297 by the United States Patent and Trademark Office (USPTO).
 
 The patent covers architectural strategies and methodologies for achieving unbiased AI in breast imaging. This innovation is backed by MedCognetics’ peer-reviewed publications in industry conferences such as the Radiological Society North America (RSNA) 2023, the European Society of Radiology (ESR) 2024, and a grant from the National Institutes of Health (NIH). This breakthrough is set to redefine the development of AI in the medical field ensuring MedCognetics’ algorithms maintain high performance across different patient demographics, thereby guaranteeing consistent, fair, superior patient outcomes.
