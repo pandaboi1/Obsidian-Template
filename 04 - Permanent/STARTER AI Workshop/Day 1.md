@@ -68,3 +68,6 @@ Given pieces of information (axioms) deduce new knowledge
 
 #### MedCognetics
 ##### Their Research
+- Has built their model for diversity
+- Specialization on Breast Cancer 
+- 
