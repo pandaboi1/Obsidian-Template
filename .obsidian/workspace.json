@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas of Interest/README.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas of Interest/README.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas of Interest/README.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas of Interest/README.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           },
@@ -155,12 +155,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - Areas of Interest/README.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "5e22029123cecce5",
@@ -199,13 +199,13 @@
   },
   "active": "7632fba9f4677b7d",
   "lastOpenFiles": [
+    "02 - Areas of Interest/README.md",
     "03 - Resources/README.md",
     "04 - Permanent/README.md",
     "07 - Archives/README.md",
     "06 - Daily/20240529.md",
     "06 - Daily/README.md",
     "05 - Fleeting/README.md",
-    "02 - Areas of Interest/README.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
     "01 - Projects/README.md",

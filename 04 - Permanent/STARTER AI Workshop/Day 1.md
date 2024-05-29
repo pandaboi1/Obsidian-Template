@@ -14,7 +14,6 @@ tags:
 
 #### S.T.A.R.T.E.R
 South Texas AI Training and Education Resources ([starter.utrgv.edu](starter.utrgv.edu))
-
 #### CRADLE
 - GPU cluster
 - 2 (out of 14) nodes ==dedicated to STARTER==
@@ -106,3 +105,6 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 #### Understandable AI as Default Rules
 **FOLD** - learn default rules that capture patterns in data
 **Default Logic** - can express 
+
+---
+## Workshop
