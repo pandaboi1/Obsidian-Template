@@ -23,15 +23,15 @@
           "title": "Map"
         },
         {
-          "type": "file",
-          "ctime": 1717001673137,
-          "path": "01 - Projects/README.md",
-          "title": "Projects"
-        },
-        {
           "type": "group",
           "ctime": 1717001570250,
           "items": [
+            {
+              "type": "file",
+              "ctime": 1717001673137,
+              "path": "01 - Projects/README.md",
+              "title": "Projects"
+            },
             {
               "type": "file",
               "ctime": 1717001631259,
@@ -40,6 +40,24 @@
             }
           ],
           "title": "Projects"
+        },
+        {
+          "type": "file",
+          "ctime": 1717001738083,
+          "path": "02 - Areas of Interest/README.md",
+          "title": "Areas"
+        },
+        {
+          "type": "file",
+          "ctime": 1717001749076,
+          "path": "03 - Resources/README.md",
+          "title": "Resources"
+        },
+        {
+          "type": "file",
+          "ctime": 1717001786959,
+          "path": "05 - Fleeting/README.md",
+          "title": "Fleeting"
         }
       ],
       "title": "READMEs"

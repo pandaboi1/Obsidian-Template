@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/README.md",
+                "file": "07 - Archives/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/README.md",
+                "file": "07 - Archives/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/README.md",
+                "file": "07 - Archives/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/README.md"
+                "file": "07 - Archives/README.md"
               }
             }
           },
@@ -155,12 +155,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - Resources/README.md"
+                "file": "07 - Archives/README.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "5e22029123cecce5",
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,6 +199,8 @@
   },
   "active": "7632fba9f4677b7d",
   "lastOpenFiles": [
+    "05 - Fleeting/README.md",
+    "03 - Resources/README.md",
     "02 - Areas of Interest/README.md",
     "01 - Projects/Automatic Cat Feeder/README.md",
     "01 - Projects/Automatic Cat Feeder/Untitled.canvas",
@@ -225,8 +227,6 @@
     "04 - Permanent/STARTER AI Workshop",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "06 - Daily/20240527.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "Untitled.canvas"
   ]
 }
