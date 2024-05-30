@@ -9,7 +9,8 @@ cssclasses:
 ---
 # Day 2
 #### Synopsis
-- I
+- [Using NVIDIA Deep Learning Institute (DLI)](https://learn.nvidia.com/dli-event)
+- 
 
 #### S.T.A.R.T.E.R
 South Texas AI Training and Education Resources ( [starter.utrgv.edu](https://starter.utrgv.edu/workshops) )
