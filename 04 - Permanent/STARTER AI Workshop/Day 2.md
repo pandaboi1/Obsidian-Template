@@ -10,4 +10,12 @@ cssclasses:
 # Day 2
 #### Synopsis
 - Introduction of day
-- 
+
+
+
+
+---
+# Workshop pt1 @9:30am
+
+## Pinnacle-AI
+### Dr. Dhruv Chakravorty - Texas A&M
