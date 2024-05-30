@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 2.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 2.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 2.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 2.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Permanent/STARTER AI Workshop/Day 2.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,12 +212,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a03b88f10e7c5e2f",
+  "active": "b0bf2facbcaacef1",
   "lastOpenFiles": [
+    "04 - Permanent/STARTER AI Workshop/Day 2.md",
     "~$README.md",
     "04 - Permanent/STARTER AI Workshop/README.md",
     "04 - Permanent/STARTER AI Workshop/Day 3.md",
-    "04 - Permanent/STARTER AI Workshop/Day 2.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
     "00 - Maps of Content/README.md",
     "06 - Daily/20240530.md",
