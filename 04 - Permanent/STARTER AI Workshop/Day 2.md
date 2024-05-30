@@ -8,4 +8,5 @@ cssclasses:
   - daily
 ---
 # Day 2
-[](UTRGV_FDL_AMBASSADOR_MAY24)
+#### Synopsis
+- Introduction of 

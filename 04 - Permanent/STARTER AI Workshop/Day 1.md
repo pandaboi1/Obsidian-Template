@@ -18,6 +18,7 @@ cssclasses:
 
 #### S.T.A.R.T.E.R
 South Texas AI Training and Education Resources ( [starter.utrgv.edu](https://starter.utrgv.edu/workshops) )
+
 #### CRADLE
 - GPU cluster
 - 2 (out of 14) nodes ==dedicated to STARTER==
