@@ -25,8 +25,8 @@ South Texas AI Training and Education Resources ( [starter.utrgv.edu](https://st
 
 ---
 # Workshop pt1 @9:30am
-## Dr. Lakshman Tamil - MedCognetics
-### Building AI Equality and Fairness
+## Building AI Equality and Fairness
+### Dr. Lakshman Tamil - MedCognetics
 
 Founded [MedCognetics](https://www.medcognetics.com) an unbiased AI company for healthcare. [link to section](#MedCognetics)
 #### AI Evolution (past to future)
@@ -90,8 +90,9 @@ Full details of the allowance are listed in the Issue Notification Certificate i
 
 MedCognetics provides an advanced AI software platform that integrates into radiology workflow. In addition, the AI algorithm is trained on a diverse global patient dataset to mitigate data biasing. The future of AI in healthcare is unbiased services and MedCognetics is at the forefront of creating a more predictable medical outcome and ultimately saving lives. Founded in 2020, the company is based in Dallas, Texas. For more information, please visit our website at [www.medcognetics.com](https://u.newsdirect.com/Em4-uMp5rmfktjibF74rFA9llJQUWOnrl5eX6-WmpiTnp-ellmQmF-sl5-cy5KWWF2eUJgECAAD__w99CGajOm6-pDbdmzCd3D-nXyClDdu4E1BZr6Fg).
 
-## Gopal Gupta - U.T.D. Grad. Professor
-### Interpretability, Understandability, and Trustworthiness in AI
+
+## Interpretability, Understandability, and Trustworthiness in AI
+### Gopal Gupta - U.T.D. Grad. Professor
 
 #### Machine Learning Model: AI is a Black Box
 ##### Trustworthiness (IBM.com)
@@ -114,8 +115,9 @@ Sensory context, inferencing, and prior knowledge of the given information to ma
 
 ---
 # Workshop pt2 @1:30pm
-## Dr. Kim - U.T.R.G.V. Grad. Professor
-### Intro to AI & Interdisciplinary Research
+
+## Intro to AI & Interdisciplinary Research
+### Dr. Kim - U.T.R.G.V. Grad. Professor
 
 #### Perception 
 How to distinguish differences in images and identify conclusions. 
@@ -157,8 +159,10 @@ TensorFlow is widely used, but PyTorch is becoming the new standard
 ##### Algorithms
 --- 
 
-## Amber Garcia and Dr. Julie P. Vanegas - U.T.R.G.V. Research Group
-### AI-Driven Design and Synthesis of Nanomaterials for the detection of fentanyl and derivatives
+
+## AI-Driven Design and Synthesis of Nanomaterials for the detection of fentanyl and derivatives
+### Amber Garcia and Dr. Julie P. Vanegas - U.T.R.G.V. Research Group
+
 #### Abstract
 The opioid crisis, significantly intensified by the widespread abuse of synthetic opioids like fentanyl, represents a formidable public health challenge. Conventional opioid detection methodologies lack the sensitivity and specificity required to effectively counter the rapid emergence and proliferation of these potent synthetic substances. This project proposes the novel development of aptamer-based nanosensors, employing cutting-edge advancements in nanotechnology, biochemistry, and artificial intelligence (AI) to overcome this inadequacy.
 

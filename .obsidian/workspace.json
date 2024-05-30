@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Maps of Content/README.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Maps of Content/README.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - Maps of Content/README.md"
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps of Content/README.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/README.md",
+                "file": "04 - Permanent/STARTER AI Workshop/Day 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,9 +189,10 @@
   },
   "active": "86e6e84c5137a7c0",
   "lastOpenFiles": [
-    "04 - Permanent/STARTER AI Workshop/README.md",
-    "00 - Maps of Content/README.md",
+    "04 - Permanent/STARTER AI Workshop/Day 2.md",
     "04 - Permanent/STARTER AI Workshop/Day 1.md",
+    "00 - Maps of Content/README.md",
+    "04 - Permanent/STARTER AI Workshop/README.md",
     "04 - Permanent/StARTER AI Workershop/Day 1.md",
     "04 - Permanent/StARTER AI Workershop",
     "04 - Permanent/README.md",
@@ -221,7 +223,6 @@
     "01 - Projects/README.md",
     "---.md",
     "--- Vault ---/Viewer.md",
-    "--- Vault ---/Welcome.md",
     "04 - Permanent/STARTER AI Workshop",
     "Untitled.canvas"
   ]
