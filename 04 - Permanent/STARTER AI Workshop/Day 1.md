@@ -11,10 +11,11 @@ cssclasses:
 
 #### Presenters : 
 - Soumya D. Mohanty
-- [Dr. Lakshman Tamil](#Dr. Lakshman Tamil - MedCognetics)
-- [Gopal Gupta](#Gopal Gupta - U.T.D. Grad. Professor)
+- [Dr. Lakshman Tamil](<#Building AI Equality and Fairness>)
+- [Gopal Gupta](<#Interpretability, Understandability, and Trustworthiness in AI>)
 - Dept. of Physics and Astronomy
 - Additional Support - NIH, NVIDIA, DLI, Physics and Astronomy
+- UTRGV Grad. Poster Presentations
 
 #### S.T.A.R.T.E.R
 South Texas AI Training and Education Resources ( [starter.utrgv.edu](https://starter.utrgv.edu/workshops) )

@@ -9,4 +9,5 @@ cssclasses:
 ---
 # Day 2
 #### Synopsis
-- Introduction of 
+- Introduction of day
+- 
