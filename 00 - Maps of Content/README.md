@@ -17,3 +17,6 @@ This is my mind map markdown file to *locate*/*visualize* my ideas.
 		- [Day 1](<04 - Permanent/StARTER AI Workshop/Day 1.md>)
 		- [Day 2](<04 - Permanent/StARTER AI Workshop/Day 2.md>)
 		- [Day 3](<04 - Permanent/StARTER AI Workshop/Day 3.md>)
+	- vcdv
+- dfds
+- 

@@ -20,7 +20,7 @@ cssclasses:
 #### S.T.A.R.T.E.R
 South Texas AI Training and Education Resources ( [starter.utrgv.edu](https://starter.utrgv.edu/workshops) )
 
-| Time<br>      | **Event**                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Time**<br>  | **Event**                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 9:00 - 9:30   | Check-in / Registration / Coffee                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | 9:30 - 10:00  | **Welcome**, Chair: Dr. Mohanty  <br>**Introducing Speakers**, Chair: Dr. Kumar                                                                                                                                                                                                                                                                                                                                                                   |
@@ -33,7 +33,7 @@ South Texas AI Training and Education Resources ( [starter.utrgv.edu](https://st
 | 3:50 - 4:00   | Break                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | 4:00 - 5:00   | **AI@UTRGV Research Poster Showcase**, Chair: Dr. Mukherjee  <br>Posters: [Edinburg](https://starter.utrgv.edu/workshops#edbrg), [Brownsville](https://starter.utrgv.edu/workshops#bro)                                                                                                                                                                                                                                                           |
 
-#### CRADLE
+#### Will have access to CRADLE
 - GPU cluster
 - 2 (out of 14) nodes ==dedicated to STARTER==
 - Scalability depending on necessity 
