@@ -13,3 +13,5 @@ This inaugural workshop is the first in a series planned over the next two years
 - "Bring Your Own Problems" Panel session to discuss introduction of AI into your work
 - [AI@UTRGV showcase](https://starter.utrgv.edu/workshops#ai@utrgv) of ongoing AI-powered research and development
 
+| [Day 1](<04 - Permanent/STARTER AI Workshop/Day 1>) | [Day 2](<04 - Permanent/STARTER AI Workshop/Day 2>) | [Day 3](<04 - Permanent/STARTER AI Workshop/Day 3>) ||
+
